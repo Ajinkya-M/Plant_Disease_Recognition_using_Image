@@ -1,2 +1,4 @@
-# Plant-Disease-Recognition-using-Image-
-Convolutional Neural Network for image feature extraction and classification
+# Plant Disease Recognition using image
+
+A Program for recognizing disease in plant using its leaf image.<br />
+Tools/Technology: <b>Python, Numpy, TensorFlow(TFLearn)</b>

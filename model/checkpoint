@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/AI/Project/model/AI_In_Agri.ckpt"
+all_model_checkpoint_paths: "C:/AI/Project/model/AI_In_Agri.ckpt"
